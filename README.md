@@ -3,7 +3,7 @@
 ## Скриншоты
 
 - Вкладка `Cотрудники`
-  
+
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/dbe35686-5632-41a5-9f16-c94e170bd3d6" />
 
 - Вкладка `Учет времени`
