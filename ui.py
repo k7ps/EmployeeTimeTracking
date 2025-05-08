@@ -1,7 +1,9 @@
-from PySide6.QtWidgets import (QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
-                              QLabel, QPushButton, QLineEdit, QDateEdit, QTimeEdit,
-                              QTableWidget, QTableWidgetItem, QComboBox, QFormLayout,
-                              QGroupBox, QTabWidget, QMessageBox, QHeaderView)
+from PySide6.QtWidgets import (
+    QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
+    QLabel, QPushButton, QLineEdit, QDateEdit, QTimeEdit,
+    QTableWidget, QTableWidgetItem, QComboBox, QFormLayout,
+    QGroupBox, QTabWidget, QMessageBox, QHeaderView
+)
 from PySide6.QtCore import QDate, QTime
 from datetime import datetime
 from models import Employee, TimeRecord

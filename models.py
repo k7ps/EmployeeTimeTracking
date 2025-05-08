@@ -1,5 +1,3 @@
-from datetime import datetime
-
 class Employee:
     def __init__(self, id=None, name="", position="", hire_date=""):
         self.id = id

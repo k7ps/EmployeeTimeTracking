@@ -1,5 +1,5 @@
 import sqlite3
-from datetime import datetime, time
+from datetime import datetime
 
 class Database:
     def __init__(self, db_name="employee_time_tracking.db"):
